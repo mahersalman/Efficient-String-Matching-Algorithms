@@ -21,8 +21,8 @@ This repository contains two distinct approaches for string matching based on MC
   - **MCS Tree-Based Approach**: Further optimizes the process by organizing MCSs in a tree structure, making the search faster than both the naive and MCS-based approaches.
 
 ## Folder Structure
-- **Lab1_MCS_Based_Matching**: Implements the first approach of MCS-based string matching using lossy MCSs.
-- **Lab2_MCS_Tree_Based_Matching**: Implements the second approach with MCSs organized in a tree structure for optimized matching.
+- **MCS_Based_Matching**: Implements the first approach of MCS-based string matching using lossy MCSs.
+- **MCS_Tree_Based_Matching**: Implements the second approach with MCSs organized in a tree structure for optimized matching.
 
 ## How to Run
 1. Navigate to each folder for specific instructions.
